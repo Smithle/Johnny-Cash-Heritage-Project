@@ -1,7 +1,7 @@
-## Bentonville High School's
+# Bentonville High School's
 
-### Johnny Cash Heritage Project
+## Johnny Cash Heritage Project
 
-#  Virtual Reality
-## Heritage Festival 
+###  Virtual Reality
+### Heritage Festival 
 ### Information
