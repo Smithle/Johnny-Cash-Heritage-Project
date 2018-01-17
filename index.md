@@ -2,8 +2,6 @@
 
 ### Johnny Cash Heritage Project
 
-### Markdown
-
 #  Virtual Reality
 ## Heritage Festival 
 ### Information
