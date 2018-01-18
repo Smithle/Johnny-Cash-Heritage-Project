@@ -1,9 +1,2 @@
-# Bentonville High School's
-
-## Johnny Cash Heritage Project
-
-###  Virtual Reality
- the e
-
-### Heritage Festival 
-### Information
+# Johnny Cash Heritage Project
+## By: Bentonville High School
